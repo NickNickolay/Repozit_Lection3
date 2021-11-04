@@ -1,0 +1,16 @@
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.GlobalUsings.g.cs
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\bin\Debug\net6.0\Method003.exe
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\bin\Debug\net6.0\Method003.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\bin\Debug\net6.0\Method003.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\bin\Debug\net6.0\Method003.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\bin\Debug\net6.0\ref\Method003.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\bin\Debug\net6.0\Method003.pdb
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\ref\Method003.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.pdb
+C:\Users\днс\OneDrive\Рабочий стол\Git\Лекция3_C#\Method003\obj\Debug\net6.0\Method003.genruntimeconfig.cache
